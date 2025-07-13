@@ -17,6 +17,7 @@ I'm a Software Engineering student at Kayseri University.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisanurkirmiziaslan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/nisanurkirmiziaslan](https://www.linkedin.com/in/nisanurkirmiziaslan)
