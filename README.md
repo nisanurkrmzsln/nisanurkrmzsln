@@ -15,8 +15,8 @@ I'm a Software Engineering student at Kayseri University.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisanurkrmzsln&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisanurkrmzsln&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisanurkirmiziaslan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 📫 Contact Me
